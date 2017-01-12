@@ -2,4 +2,94 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-color: #f5f5f5;
+}
+
+/*
+    HOME
+*/
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.maintext {
+  font-size: 400%;
+  font-family: 'Cutive Mono', sans-serif;
+  padding-top: 100px;
+  flex-basis: 100%;
+  text-align: center;
+}
+
+
+.homelink{
+  font-size: 200%;
+  font-family: 'Cutive Mono', sans-serif;
+  padding: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.homelink:hover {
+  text-decoration: underline;
+}
+
+/*
+    PROJECTS
+*/
+
+.backtohome {
+  position: fixed;
+  left: 10px;
+  top: 10px;
+  font-size: 10px;
+}
+.backtohome a{
+  color: black;
+}
+
+.projects-title {
+  font-size: 300%;
+  font-family: 'Cutive Mono', sans-serif;
+  padding-top: 50px;
+  flex-basis: 100%;
+  text-align: center;
+}
+
+.projectitem {
+  width: 300px;
+  padding: 30px;
+}
+
+.projectitem  a{
+  font-family: 'Cutive Mono', sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+.projectitem a:hover {
+  text-decoration: underline;
+}
+
+@media (min-width:600px) {
+  .maintext {
+    font-size: 800%;
+    padding-top: 300px;
+  }
+  .backtohome {
+    position: fixed;
+    font-size: 20px;
+    left: 30px;
+    top: 40px;
+  }
+  .projects-title {
+    font-size: 300%;
+    font-family: 'Cutive Mono', sans-serif;
+    padding-top: 50px;
+    flex-basis: 100%;
+    text-align: center;
+  }
+
 }

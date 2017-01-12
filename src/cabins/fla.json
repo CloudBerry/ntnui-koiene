@@ -1,0 +1,73 @@
+{
+  "name" : "Flåkoia",
+  "difficulty" : 2,
+  "beds" : 11,
+  "seats" : 14,
+  "year" : 1968,
+  "bike" : "x",
+  "summit" : ".",
+  "fishing" : "x",
+  "guitar" : "x",
+  "waffle" : "-",
+  "special":
+    {
+      "no" : "Badstue, båt, isbor",
+      "en" : "Sauna, boat, ice drill"
+    },
+  "terrain" :
+    {
+      "no" : "Skog",
+      "en" : "Forest"
+    },
+  "height" : "283m",
+  "position" : "63.15702, 10.36538",
+  "map" : "Trondheim 106",
+  "weatherlink" : "http://www.yr.no/sted/Norge/S%C3%B8r-Tr%C3%B8ndelag/Melhus/Stordamvatnet/",
+  "picturelink" : "https://plus.google.com/photos/112172516519597975801/albums/6080568101715065937",
+  "images" : [],
+  "cabindescription" :
+    {
+      "no" : "Ei februarnatt i 1984 brant det lystig inne ved store Damvatnet. Det var et trist syn som møtte ei gruppe AVH-studenter et par uker etterpå. En deformert ved-ovn stod enslig igjen i skogen, dekt av et par tommer snø. Tragedien var et faktum, Flåkoia fra 1968 var nedbrent. Gråt og tenners gnissel. <br> Allerede samme høst var studentene igang med gjenreisinga, og i februar 1986 kunne det holdes innvielsesfest i ei staselig, lafta koie med torvtak. Flåkoia ligger idyllisk til på en liten odde på nordsida av vatnet. AVHI har avtalefesta fiskerett, båt og garn hører til, og som om ikke det var nok så åpnet det en flunkende ny badstue på Flå høsten 2011! Koia har 11 sengeplasser. <br> På Flåkoia kan en sitte på taket og filosofere, ta en bayer, sanke bær og sopp i skogene omkring, eller bare synde i sommersolen. Vinterstid er Store Damvatnet attraktivt for isfiskere (det er massevis av røye og isbor finnes på koia), "ravrenne" de bratte liene ned mot vatnet eller brekke skia etter luftige svev. <br> Flåkoia har egen søppeldunk, denne er låst og nøkkelen finnes på nøkkelknippet. Søppeldunken er merket med NTNUI KOIENE. I denne dunken skal bare restavfall, kompost legges i kompostbingen ved koia, glass skal taes med tilbake til Trondheim. Søppeldunken står ved siden av en trekasse ved broen en kjører over for å komme til koia, lett å finne.",
+      "en" : "A night in February 1984 there was a fire at the Store Damvatnet. A sad view was welcoming some AVH-students a few weeks later: a deformed stove stood there alone in the forest, covered by some centimetres of snow. The tragedy was a fact: the Flåkoia from 1968 had burnt down. <br>Already in the autumn of the same year students started to rebuild the cabin and in February 1986 there was a big "cabinwarming party" in a splendid log cabin with grass roof. The Flåkoia is standing on an idyllic place at the north side of the lake, so you will be able to cool down after using the sauna that was built during summer 2011. AVHI has fishing rights, boat and fishing net are at the cabin. Flåkoia has 11 sleeping places. <br> At Flåkoia you can sit on the roof and philosophise, drink beer, search for berries and mushrooms in the surroundings or enjoy the summer sun. During wintertime there are good ice fishing possibilities there, you can find an ice drill at the cabin."
+    },
+  "traveldescription" :
+    {
+      "no" : "Den vanligste adkomsten til Flåkoia er via vegen mot Samsjøen fra Lundamo, der man forøvrig går av dersom man benytter seg av buss. Kommer man til bommen på veien til Samsjøen har man kommet for langt. Rett etter et fiskeoppdrettsanlegg svinger man til venstre over brua og tar veien opp mot gården Breidlia. Følg denne veien omlag 2 km forbi gården (du skal passere ei ferist og en stor stålgarasje). Fra parkeringen ved de tidligere kraftlinjemastene (kun noe betong og gjerder som står igjen) er det en lett tur langs Talbergåsen til Damvatnet. Det er nå opparbeidet en vei som går videre helt inn til Damvatnet. Denne veien kommer ned på hovedveien ca 50 meter bortenfor kraftlinjemastene (U-sving) og er merket med et skilt 'Ordertjernåsen'. Veien er relativt dårlig og anbefales ikke for de med fin bil. Hvis en går på ski er det lettest å følge myrene rett nordover der veien går før du dreier nordvest til du treffer sørsiden av Damvatnet. Gå ikke over isen uten å forsikre deg om at den er trygg, og pass på utløp. <br> Vinterstid er det ofte brøytet inn til stålgarasjen. Det er kun lov å parkere ved garasjen i helgene. Vis hensyn ved valg av parkeringssted, ikke sperr for garasjeportene og tømmerdrifta i området!",
+      "en" : "The most common route is via the road to Samsjøen from Lundamo, where you also have to leave the bus. When you reach the toll plaza on this road you have gone too far. Directly behind a fish farm you have to leave the road to the left over a bridge and go up to the farm Breidlia. Follow this road for about 2km, you pass a "ferist" and a big steel garage. From the parking place at the earlier power line masts (there is only some concrete and fence left) it is an easy trip along Talbergåsen to Damvatnet. There is now a road continuing completely inn to the lake. This road meets the main road ca. 50 meters from the power line masts (U-turn) and is marked "Ordertjernåsen". It is in relatively bad condition and not recommended for people with new cars.<br> If you go by skis it is easiest to follow the marshes directly northwards where the way is, before you swing to the northwest until you meet the lake. Don't cross the ice if you are not sure that it is thick enough and be careful at the outlet. <br> During winter the road is normally broached until the steel garage. You are allowed to park there only during the weekends. Show respect and do not block the garages!"
+    },
+  "parkingdescription" :
+    {
+      "no" : "Sommerstid: Parkering ved de tidligere kraftlinjemastene eller eventuelt i enden av veien, like ved koia. <br> Vinterstid: Parkering ved stålgarasjen.",
+      "en" : "Summer time: Parking at the earlier power line masts or in the end of the road, close to the cabin. <br> Winter time: Parking next to the steel garage."
+    },
+  "time" :
+    {
+      "private" :
+        {
+          "driving" : "1:00",
+          "summer" : {"walking" : "0:15", "total" : "1:15"},
+          "winter" : {"walking" : "0:45", "total" : "1:45"}
+        },
+      "public" :
+        {
+          "driving" : "1:00",
+          "summer" : {"walking" : "2:00", "total" : "3:00"},
+          "winter" : {"walking" : "2:00", "total" : "3:00"}
+        }
+    },
+  "transport" :
+    [
+      {
+        "service" : "Regionbuss 340", "route" : "Trondheim - Støren - Røros", "exit" : "Lundabrua"
+      },{
+        "service" : "NSB", "route" : "Trondheim -  Røros", "exit" : "Lundamo"
+      }
+    ],
+    "trips" :
+      [
+        {
+          "no" : {"title": "Turnummer1", "desc": "Beskrivelsenummer1", "link": "www.google.com"},
+          "en" : {"title": "Tripnumber1", "desc": "Descriptionnumber1", "link": "www.google.com"}
+        }
+      ]
+}

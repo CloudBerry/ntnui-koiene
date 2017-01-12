@@ -1,0 +1,73 @@
+{
+  "name" : "Nicokoia",
+  "difficulty" : 4,
+  "beds" : 8,
+  "seats" : 12,
+  "year" : 1947,
+  "bike" : "-",
+  "summit" : "(x)",
+  "fishing" : "-",
+  "guitar" : "x",
+  "waffle" : "x",
+  "special":
+    {
+      "no" : "",
+      "en" : ""
+    },
+  "terrain" :
+    {
+      "no" : "",
+      "en" : ""
+    },
+  "height" : "563m",
+  "position" : ", ",
+  "map" : "Trondheim 106",
+  "weatherlink" : "",
+  "picturelink" : "",
+  "images" : [],
+  "cabindescription" :
+    {
+      "no" : "",
+      "en" : ""
+    },
+  "traveldescription" :
+    {
+      "no" : "",
+      "en" : ""
+    },
+  "parkingdescription" :
+    {
+      "no" : "",
+      "en" : ""
+    },
+  "time" :
+    {
+      "private" :
+        {
+          "driving" : "",
+          "summer" : {"walking" : "", "total" : ""},
+          "winter" : {"walking" : "", "total" : ""}
+        },
+      "public" :
+        {
+          "driving" : "",
+          "summer" : {"walking" : "", "total" : ""},
+          "winter" : {"walking" : "", "total" : ""}
+        }
+    },
+  "transport" :
+    [
+      {
+        "service" : "Regionbuss 340", "route" : "Trondheim - Støren - Røros", "exit" : "Lundabrua"
+      },{
+        "service" : "NSB", "route" : "Trondheim -  Røros", "exit" : "Lundamo"
+      }
+    ],
+    "trips" :
+      [
+        {
+          "no" : {"title": "Turnummer1", "desc": "Beskrivelsenummer1", "link": "www.google.com"},
+          "en" : {"title": "Tripnumber1", "desc": "Descriptionnumber1", "link": "www.google.com"}
+        }
+      ]
+}
