@@ -1,0 +1,72 @@
+{
+  "name" : "Fosenkoia",
+  "area" : "Fosen",
+  "difficulty" : 4,
+  "beds" : 10,
+  "seats" : 12,
+  "year" : 1957,
+  "bike" : "-",
+  "summit" : "(x)",
+  "fishing" : "-",
+  "guitar" : "x",
+  "waffle" : "x",
+  "special":
+    {
+      "no" : "",
+      "en" : ""
+    },
+  "terrain" :
+    {
+      "no" : "Skog / Tregrense",
+      "en" : "Forest / Timberline"
+    },
+  "height" : "525m",
+  "position" : "63.56813, 10.29541",
+  "map" : "Fosen 113",
+  "weatherlink" : "http://www.yr.no/sted/Norge/Nord-Tr%C3%B8ndelag/Leksvik/Aksnesdammen/",
+  "picturelink" : "https://plus.google.com/photos/112172516519597975801/albums/6080568274022875521",
+  "images" : [],
+  "cabindescription" :
+    {
+      "no" : "Myrene på Fosen er mangfoldige. Noen vil kanskje si den ene er lik den andre, og dermed bruke det som forklaring på hvorfor man ikke kom fram til koia før langt på natt (eller kanskje ikke i det hele tatt!), men like fullt: myrene byr på en verden full av muligheter... <br> Men først litt historie: I 1957 ble 5-6 tonn med materialer båret opp på sterke studentrygger fra Aksnes og opp til koietomta (400 høydemeter). Totalt ble byggekostnadene 9000.-, inklusive utgifter til tømmermann. Finansieringen var aksjesalg, utstyrsdonasjoner samt tilskudd fra Tapir til innredning. <br> Området rundt koia byr på gode treningsmuligheter for folk som dyrker klatre-sporten. Stedet er da også blitt ett av samlingspunktene for Tindegruppa. Her har de rikelige muligheter for utfoldelse. Tinde- og koiefolkets dristighet kombinert med manglende skiferdigheter sørger som regel for et godt tilskudd av tørr opptenningsved vinterstid. NB: En bør være medlem av treskias venner! <br> Etter hvert som Tindegruppa vokste ble det med tiden plassmangel på koia. Problemet ble løst da Ravnefjellsbivuakken ble oppdaget. Den består av et stup med en overhengende fjellhammer. Hvis vinden ikke velger for ugunstige innfallsvinkler kan man ligge tørt og fint her, til tross for trønderregnet. I senere år har dog Tindegruppa fått sin egen koie, Selneskoia, også på Fosenhalvøya. <br>Koia har også blitt flittig brukt som tilfluktssted for eksamenslesere. Dette har ikke alltid falt like heldig ut. Et stort utvalg av Knøttene-litteratur har lokket mang en bokorm bort fra knusktørre lærebøker. Når så veden er rå, ja så går den akademiske karriere lett opp i røyk.",
+      "en" : "There are many marshes at Fosen. Some people claim maybe that they all look the same and use that as an excuse to explain why they didn't arrive at the cabin before in the middle of the night or maybe not at all! But anyhow: the marches provide many possibilities... <br> First some history: In 1957 5-6 tones of materials were carried up to the cabin parcel from Aksnes by strong students (400m difference in altitude). The total costs were around 9000 NOK inclusive payment for the carpenter. It was financed by sold shares, gifts and some money from Tapir. <br> Close to the cabin there are good climbing facilities, why the cabin was a gathering place for the climbing group. When the group got more and more members Fosenkoia was to small, but they found Ravnefjellsbivuakken, a cave where you can sleep dry and warm if not the wind is coming from the wrong side. Nowadays the climbing group has its own cabin, Selneskoia. <br> Fosenkoia has also been used by many students reading for their exams, not always successful however."
+    },
+  "traveldescription" :
+    {
+      "no" : "En kommer til Fosen med hurtigbåt fra Pirterminalen til Vanvikan, eller med bilferja fra Flakk til Rørvik (går noe oftere). Vil en til Fosenkoia tar en fra kaia i Vanvikan sikte på industriområdet øst for Vanvikan. For å komme til utgangspunktet av turstien som fører oppover lia er det ca 350 meter å gå fra hurtigbåthavna, langs riksveien rett østover i retning Leksvik. Der tar stien opp til venstre og starten på stien er merket med turistforeningens merke, det er et merke også ca midtveis opp og et merke med avstandsangivelser til Munken og Grønliklumpen når stien kommer opp til en liten driftsvei. Deler av denne løypa er en gammel ferdselsåre som gikk opp til området før bilenes tid, den er steinsatt og er i seg selv et kulturminne. Man har nær kontakt med elva og naturen langs denne løypa. <br> Når man kommer opp til skogsveien følger man denne bare ca 100 meter østover til den svinger til venstre før ei lita myr. Kryss myra og følg en sti til denne forsvinner i ei ny myr. Ta så inn en trang bekkedal og opp "stupet" til høyre - følg myrdrag østover til tjernet der koia ligger. Anvendt tid fra 39 minutter til drøye 24 timer, men vanligvis 1,5 - 2 timer. Et annet veivalg er å ta med sykkel på båten og sykle til Aksnes. Herfra går det en sti opp til Munken. Når sola går ned bak den syvende blånen, er det på tide å gå ned til koia. <br> Vil en derimot til Ravnefjell tar en veien til Storvik, og via Storviksetra følger en draget innover Kvernavikdalen. Fra Storvik er det 1 - 1,5 time. Det er også greit å gå fra Fosenkoia til Ravnefjell (tar ca 30-45 minutter).",
+      "en" : "You can come to Fosen by the speed boat to Vanvikan or by car ferry from Flakk to Rørvik (goes more frequently). From the speed boat harbour, aim for the industrial area east of Vanvikan. To get to the starting point of the trail leading up the mountain, follow the main road about 350 meter eastwards towards Leksvik. There, take the path up to the left. The start of the trail is marked as an official hiking route, there is also a mark about halfway up and a sign with distances to Munken and Grønliklumpen when the trail comes up to a small road. Parts of this trail are an old trading route that went up to the area before the introduction of cars, it is stony and is itself a cultural monument. You have close contact with the river and the scenery along this trail. <br> When reaching the small forest road, follow it only about 100 meters eastwards until it's turning left at a small marsh. Cross the march and follow a path until it's ending in a new marsh. From there you have to go through a narrow valley and up the hillside to the right. Follow the marshes eastwards until you reach the lake with the cabin. Used time lies between 39 minutes and 24 hours, but normally it's 1,5 - 2 hours. Another possibility is to take your bike onto the ferry and cycle to Aksnes. From there you can follow a steep path up Munken. From there you can walk down to the cabin. <br> If you want to Ravnefjell you have to take the road to Storvik, pass Storviksetra and into Kvernavikdalen. From Storvik the trip is taking 1 - 1,5 hours. You can also take a trip from Fosenkoia to Ravnefjell (ca. 30-45 minutes)."
+    },
+  "parkingdescription" :
+    {
+      "no" : "Sommers- og vinterstid: Ved industriområdet. Sørg for at du ikke sperrer veien! Egentlig er det ingen grunn til å styre med parkering i det hele tatt, all den tid det enkleste uansett er å ta hurtigbåten rett over fjorden og gå derfra, billigere er det også.",
+      "en" : "Summer and winter time: At the industrial area. Be aware of not blocking the road! But really, why would you bring a car in the first place, it's so much easier catching the boat to Vanvikan and walk from there."
+    },
+  "time" :
+    {
+      "private" :
+        {
+          "driving" : "1:15",
+          "summer" : {"walking" : "2:00", "total" : "3:15"},
+          "winter" : {"walking" : "2:00", "total" : "3:15"}
+        },
+      "public" :
+        {
+          "driving" : "0:30",
+          "summer" : {"walking" : "2:30", "total" : "3:00"},
+          "winter" : {"walking" : "2:30", "total" : "3:00"}
+        }
+    },
+  "transport" :
+    [
+      {
+        "service" : "Hurtigbåt", "route" : "Trondheim - Vanvikan", "exit" : "Vanvikan"
+      }
+    ],
+    "trips" :
+      [
+        {
+          "no" : {"title": "Turnummer1", "desc": "Beskrivelsenummer1", "link": "www.google.com"},
+          "en" : {"title": "Tripnumber1", "desc": "Descriptionnumber1", "link": "www.google.com"}
+        }
+      ]
+}

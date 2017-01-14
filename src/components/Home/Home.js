@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from "react-router"
+import CabinInfo from "../CabinInfo/CabinInfo"
 
 
 class Home extends Component {
@@ -7,6 +8,7 @@ class Home extends Component {
     return (
       <div>
         Hello
+        <CabinInfo />
       </div>
     );
   }
